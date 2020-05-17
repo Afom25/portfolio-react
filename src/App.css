@@ -1,0 +1,59 @@
+
+
+body {
+  background: url(./img/bk1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;;
+  
+}
+
+.home-section{
+  height: 100vh;
+
+  
+}
+h1,h3{
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: antiquewhite;
+}
+h2{
+  text-align: center;
+}
+
+h5{
+  color:whitesmoke;
+}
+h4{
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;;
+}
+#img-1
+{
+  border-radius: 50%;
+  width:200px;
+}
+.about-section{
+  height: 50vh;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#button{
+  text-align: center;
+}
+
+#hidri-img{
+  position: absolute;
+  top: 160%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+
+}
